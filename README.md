@@ -2,7 +2,7 @@
 
 🟢Live view Available at Tableau Public: https://public.tableau.com/app/profile/sanjey.gm/viz/DebitcardSpendAnalyticsDashboard_17149778621740/Dashboard1
 
-🟢LinkedIn Post : coming soon
+🟢LinkedIn Post : https://shorturl.at/zIKfd
 
 🟢Message me on LinkedIn if u have any doubts / need Figma file - https://www.linkedin.com/in/sanjeygm/
 
